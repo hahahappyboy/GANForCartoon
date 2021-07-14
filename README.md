@@ -1,5 +1,3 @@
-# GANForCartoon
-基于GAN的人像卡通化
 
 ## 先来看看效果吧
 这是pycharm跑出来的效果，看起来挺不错的。
@@ -57,14 +55,14 @@
 > 检测方法[https://github.com/1adrianb/face-alignment](https://github.com/1adrianb/face-alignment)
 
  （2）人脸校正，通过68个人脸关键点的第37、46两个点（即眼角的两个点）的坐标结合仿射变换，将倾斜的人脸转正。
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714093605119.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center =250x200)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714093605119.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
 
 > 仿射变换这篇文章讲的不错[https://blog.csdn.net/liuweiyuxiang/article/details/82799999](https://blog.csdn.net/liuweiyuxiang/article/details/82799999)
 
 （3）人脸截取，根据68个关键点中最左边，最右边，最上边，最下边的四个点的坐标位置按一定比例框出一个正方形来截取出人脸。
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714094014448.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
 （4）人脸分割，使用FCN或U2net语义分割模型将人脸截取出来。然后用原图与截取后的图像相乘就能去除掉背景。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714094752860.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center =300x300 )
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714094752860.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
 
 > FCN模型[https://github.com/minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)
 > FCN论文[https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
