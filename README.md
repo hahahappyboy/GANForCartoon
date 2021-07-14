@@ -37,7 +37,7 @@
  	![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714091342451.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
  
  5. 运行main.py文件
-
+最后结果在dataset/pre_fuse_output（前景融合）或dataset/back_fuse_output（背景融合）,dataset其余文件是保存中间结果。
  
 ## 项目原理简介
 
