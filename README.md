@@ -22,9 +22,11 @@
  2. 将下载好的模型放在save_model文件夹之下
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210713202019839.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
+
  3. 将你要转换的人脸图像如nini.png放入dataset/img中，将要融合的背景图像如yourname2.jpeg放入dataset/back_ground中
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210713205924634.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
+
  4. 参数设置
  找到**mian.py**文件中的parse_opt()方法，直接改default里面的数值就好
  **--img-name**填写你放在dataset/img中人脸图片的名字如nini.png
