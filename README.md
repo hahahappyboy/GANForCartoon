@@ -1,3 +1,5 @@
+## 写在前面
+天气晴朗万物可爱，希望通过这篇文章对大家学习GAN有所帮助。话不多说，我们开始吧！
 
 ## 先来看看效果吧
 这是pycharm跑出来的效果，看起来挺不错的。
@@ -9,7 +11,7 @@
 
 ## 大家最想要的
 
-本项目具体讲解请前往
+本项目CSDN博客
 [https://blog.csdn.net/iiiiiiimp/article/details/118701276](https://blog.csdn.net/iiiiiiimp/article/details/118701276)
 
 
@@ -93,4 +95,12 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714101559341.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
 
 > 背景融合参考了[https://github.com/leijue222/portrait-matting-unet-flask](https://github.com/leijue222/portrait-matting-unet-flask)
+
+## (2021/11/16更)本项目C++和Pytorch的OnnxRuntime使用方法
+见博主的另一篇博客
+[https://blog.csdn.net/iiiiiiimp/article/details/120621682](https://blog.csdn.net/iiiiiiimp/article/details/120621682)
+
+## 写在后面
+博主今年大四毕业单身狗，做这个项目的原因是想送给自己喜欢的一位姑娘一副她本人的漫画图像，顺带完成一下毕业设计。**若有写的不好的地方还望多多包含**~今年天临3年，毕业依旧很难，嘤嘤嘤。希望对大家学习GAN有所帮助！
+<img width="160" alt="zyy" src="https://user-images.githubusercontent.com/47819608/147376046-d067ac63-23dd-4bb8-a167-3c14d7b9ca57.png">
 
