@@ -40,6 +40,7 @@
  **--migration-method**为选择卡通图像风格迁移模型，有Photo2cartoon、U-GAT-IT、Pix2pix三种，强烈建议使用Photo2cartoon，效果最好。
  
  	**一图胜千言**(参数控制的地方)
+  
  	![在这里插入图片描述](https://img-blog.csdnimg.cn/20210714091342451.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
  
  5. 运行main.py文件
