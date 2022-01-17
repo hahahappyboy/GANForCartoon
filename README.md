@@ -105,6 +105,11 @@
 见博主的另一篇博客
 [https://blog.csdn.net/iiiiiiimp/article/details/120621682](https://blog.csdn.net/iiiiiiimp/article/details/120621682)
 
+## (2022/1/3更)APP的代码
+写在这里
+[https://blog.csdn.net/iiiiiiimp/article/details/122384622](https://blog.csdn.net/iiiiiiimp/article/details/122384622)
+<img src="https://img-blog.csdnimg.cn/229e19ad99f848c181d1ca7bf60ede4e.gif" width="200"> <img src="https://img-blog.csdnimg.cn/d095c6d03d2c4951ad039b7fd90714b3.gif" width="200"> <img src="https://img-blog.csdnimg.cn/cd66cf9f32ba4297a3ad241a859387bc.gif" width="200">
+
 ## 写在后面
 博主今年大四毕业单身狗，做这个项目的原因是想送给自己喜欢的一位姑娘一副她本人的漫画图像，顺带完成一下毕业设计。**若有写的不好的地方还望多多包含**~今年天临3年，毕业依旧很难，嘤嘤嘤。希望对大家学习GAN有所帮助！
 
