@@ -14,7 +14,7 @@ llvmlite==0.38.0
 matplotlib==3.5.1
 networkx==2.6.3
 numba==0.55.0
-numpy==1.19.3
+numpy>=1.19.3
 opencv-python==4.5.5.62
 packaging==21.3
 paddlepaddle==2.2.1
