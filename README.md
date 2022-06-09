@@ -115,8 +115,7 @@
 
 开源一个自己制作的数据集，可以跑着玩玩
 
-[https://blog.csdn.net/iiiiiiimp/article/details/123959134](https://blog.csdn.net/iiiiiiimp/article/details/123959134)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/44fee863ea544a03bb57d191b8010c47.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAaWlpaWlpaW1w,size_20,color_FFFFFF,t_70,g_se,x_16)
+![请添加图片描述](https://img-blog.csdnimg.cn/8f39146ffce94935841c7323e3b328fe.jpeg)
 
 ## 写在后面
 博主今年大四毕业单身狗，做这个项目的原因是想送给自己喜欢的一位姑娘一副她本人的漫画图像，顺带完成一下毕业设计。**若有写的不好的地方还望多多包含**~今年天临3年，毕业依旧很难，嘤嘤嘤。希望对大家学习GAN有所帮助！
