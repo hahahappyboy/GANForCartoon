@@ -5,7 +5,7 @@
 这是pycharm跑出来的效果，看起来挺不错的。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210713175706274.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70#pic_center)
 这是做的一个app
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210713180500245.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2lpaWlpaWltcA==,size_16,color_FFFFFF,t_70)
+ <img src="https://img-blog.csdnimg.cn/ebe30ae3e19740018c6e8a58638c0d93.gif" width="200"> <img src="https://img-blog.csdnimg.cn/d095c6d03d2c4951ad039b7fd90714b3.gif" width="200"> <img src="https://img-blog.csdnimg.cn/cd66cf9f32ba4297a3ad241a859387bc.gif" width="200">
 
 > APP界面参考了微信小程序的AI卡通秀
 
@@ -109,7 +109,7 @@
 写在这里
 [https://blog.csdn.net/iiiiiiimp/article/details/122384622](https://blog.csdn.net/iiiiiiimp/article/details/122384622)
 
- <img src="https://img-blog.csdnimg.cn/ebe30ae3e19740018c6e8a58638c0d93.gif" width="200"> <img src="https://img-blog.csdnimg.cn/d095c6d03d2c4951ad039b7fd90714b3.gif" width="200"> <img src="https://img-blog.csdnimg.cn/cd66cf9f32ba4297a3ad241a859387bc.gif" width="200">
+
 
 ## (2022/4/4更)双城之战风格迁移数据集
 
